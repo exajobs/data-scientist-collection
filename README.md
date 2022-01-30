@@ -1,1 +1,1 @@
-# data-scientist-collection
+# Data Scientist Collection
